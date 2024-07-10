@@ -1,1 +1,1 @@
-# my-first-repository
+# repo-for-macaroons
